@@ -21,5 +21,3 @@
   <li>🌎 <strong>2010 – 2012: </strong> Quality Assurance in Social Media</li>
   <li><img src="https://ut99.org/utlogo2b.png" width="18" height="18">&nbsp;&nbsp;<strong>2007: </strong>Founded <a href="https://ut99.org" title="UT99.org – The Unreal Tournament Community">UT99.org</a> – The Unreal Tournament Community</li>
 </ul>
-
-CS50's Introduction to Computer Science

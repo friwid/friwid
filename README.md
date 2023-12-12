@@ -1,7 +1,7 @@
 
 
 <h2 align="center">Hi! This is Frieder. 😊</h2>
-<p align="center">I am diving deep into web development.</p>
+<p align="center">Pretty cool this web dev stuff.</p>
 
 <h3>Currently</h3>
 <ul>

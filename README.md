@@ -10,9 +10,10 @@
   <li>💪 Diving deep into web development  
   <ul>
     <li>✅ CS50's Introduction to Computer Science (<a href="https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science" title="CS50: Introduction to Computer Science">Course</a>)</li>
-     <li>✅ CS50's Introduction to Databases with SQL (<a href="https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql" title="CS50: Introduction to Computer Science">Course</a>)</li>
+    <li>✅ CS50's Introduction to Databases with SQL (<a href="https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql" title="CS50: Introduction to Computer Science">Course</a>)</li>
+    <li>✅ Working through <a href="https://www.theodinproject.com" title="The Odin Project">The Odin Project - Foundations Course</a></li>
     <li>✅ Learning some Vue with a <a href="https://github.com/friwid/vue-test1" title="Browsergame Test">Vue test project</a></li>
-    <li>🛠 Working through <a href="https://www.theodinproject.com" title="The Odin Project">The Odin Project</a> (✅ Foundations Course, 🛠 NodeJS)</li>
+    
 
   </ul>
 </ul>

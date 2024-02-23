@@ -13,7 +13,7 @@
     <li>✅ CS50's Introduction to Databases with SQL (<a href="https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql" title="CS50: Introduction to Computer Science">Course</a>) [11/23]</li>
     <li>✅ Working through <a href="https://www.theodinproject.com" title="The Odin Project">The Odin Project - Foundations Course</a> [12/23 – 01/24]</li>
     <li>✅ Learning some Vue with a <a href="https://github.com/friwid/vue-test1" title="Vue Test 1">Vue test project</a> [01/24]</li>
-    <li>🛠 Diving into Full Stack knowledge with <a href="https://github.com/friwid/nexusrivals" title="nexusrivals">nexusrivals</a> [02/24 – today</li>
+    <li>🛠 Diving into full stack development knowledge with <a href="https://github.com/friwid/nexusrivals" title="nexusrivals">nexusrivals</a> [02/24 – today</li>
     
 
   </ul>
